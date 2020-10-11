@@ -11,7 +11,7 @@ The following algorithms are used to classify:
 *SVM
 *Navie bayes 
 *Logistic regression 
-*Deision Tree
+*Decision Tree
 
 There is a python file for each alogorithm with its name on it.
 
